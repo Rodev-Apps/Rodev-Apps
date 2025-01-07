@@ -9,9 +9,9 @@ Having recently transformed my skills from Hardware to Software Engineering, thi
 ## Feedback
 Please do not esitate to rech out if you would like to know more. Your feedback, queries or suggestions are most welcome and you can reach me on the following social media platforms:
 
-* Let’s Collaborate on [Linkedin](https://www.linkedin.com/in/rodevs/)
-* Chat with me on [Facebook](https://www.facebook.com/profile.php?id=100095082984128)
-* And interact with me on [X](https://x.com/Rodevs23?mx=2)
+* Let’s Collaborate on [![Asset 6](https://github.com/user-attachments/assets/68f9789a-068a-41f9-a5b0-4c2c3ae10024)](https://www.linkedin.com/in/rodevs/)
+* Chat with me on [![Asset 2](https://github.com/user-attachments/assets/2c92f667-8613-4e33-aa9c-75281f2feb48)](https://www.facebook.com/profile.php?id=100095082984128)
+* And interact with me on [![Asset 4](https://github.com/user-attachments/assets/8b09094b-81d7-403e-9c08-980b28dc4c67)](https://x.com/Rodevs23?mx=2)
 
 Thanks for stopping by.
 
